@@ -2,16 +2,16 @@
 
 ## How it works
 
-Just enter your ip on CIDR format
+Just enter your ip in CIDR format
 
 ```
 python3 netcalc.py
 
 [+] Dame la ip en CIDR: 192.168.1.1/24
 ```
-## What iformation gives me?
+## What information does it provides?
 
-- Ip ID
-- Ip Broadcast
-- Binary and decimal format of netmask, wildcard and ip
+- IP ID
+- IP Broadcast Address
+- Binary and decimal format of the netmask, wildcard and IP
 - Number of hosts
